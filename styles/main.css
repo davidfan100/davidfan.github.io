@@ -23,12 +23,14 @@ h1{
 .Resume{
 	text-align: center;
 }
+.bluetext{
+	font-weight: bold;
+	font-size: 30px;
+}
+.blacktext{
+	color:black;
+	font-size: 20px;
+}
 .aboutme{
-	color: #3399ff;
-	font-size: 28px;
+	text-align: center;
 }
-.aboutme a{
-	color: black;
-	font-size: 28px;
-}
-/*#EFFBFB,*/
