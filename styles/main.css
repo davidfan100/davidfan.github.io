@@ -1,6 +1,5 @@
 body{
-	background-color: red;
-	margin: 0 auto;
+	background-color: #D3D9DF !important;
 }
 h1{
 	text-align: center;
@@ -9,7 +8,7 @@ p{
 	font-family: 'Raleway', sans-serif;
 }
 header{
-	background-color: #C0C0C0;
+	background-color: #989898;
 }
 .lead{
 	text-align: center;
@@ -22,10 +21,10 @@ header{
 	color:black;
 }
 .display-3{
-	color: #3399ff;
+	color: #004489;
 }
 .nav-link{
-	color:#3399ff;
+	color:#004489;
 }
 .Resume{
 	text-align: center;
